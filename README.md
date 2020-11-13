@@ -90,18 +90,10 @@ $ git clone https://github.com/nlnadialigia/90sites90days.git
 
 Nome | GitHub | Likedin | E-mail
 ---- | ------ | ------- | ------
----- | ------ | ------- | ------
----- | ------ | ------- | ------
----- | ------ | ------- | ------
-
 Caio Campos | [Caio Campos](https://github.com/CampossCaio) | [Linkedin](https://www.linkedin.com/in/caio-campos-905955175/) | email
- ------
 Hedenica Morais | [Hedenica Morais](https://github.com/hedenica) | [Linkedin](https://www.linkedin.com/in/hedenica/) | hedenica@hotmail.com
- ------
 Hudson Duarte | [Hudson Duarte](https://github.com/huduarte) | [Linkedin](https://www.linkedin.com/in/huduarte/) | hudsoneeto@outlook.com
- ------
 Nadia Ligia | [Nadia Ligia](https://github.com/nlnadialigia) | [Linkedin](https://www.linkedin.com/in/nlnadialigia/) | email
- ------
 
 
 
