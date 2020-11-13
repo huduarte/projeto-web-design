@@ -42,11 +42,11 @@
 
 ## :computer: Tecnologias
 
-# Este foi um projeto desenvolvido em equipe que faz parte do programa Space Squad, o programa de formação de mentores desenvolvido pela [Rocketseat](https://rocketseat.com.br/).
+Este foi um projeto desenvolvido em equipe que faz parte do programa Space Squad, o programa de formação de mentores desenvolvido pela [Rocketseat](https://rocketseat.com.br/).
 
 <br>
 
-# A proposta do desafio era escolher um projeto simples e criar uma melhoria e/ou refatoração.
+A proposta do desafio era escolher um projeto simples e criar uma melhoria e/ou refatoração.
 
 <br>
 
@@ -60,7 +60,7 @@ This project was made using the follow technologies:
 
 ## :rocket: Features
 
-## O grupo implementou 3 features que estão em branch's separadas. A escolha da feature utilizada se deu por decidirmos manter a essência do projeto e só acrescentar funcionalidades, o som e estilo nas bolinhas quando clicadas.
+O grupo implementou 3 features que estão em branch's separadas. A escolha da feature utilizada se deu por decidirmos manter a essência do projeto e só acrescentar funcionalidades, o som e estilo nas bolinhas quando clicadas.
 
 <br>
 
