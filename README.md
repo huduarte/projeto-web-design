@@ -31,16 +31,17 @@
 
 ### Projeto baseado no [site 65 - Ondas](https://www.dorlyneto.com/90sites/65-ondas) do desafio de fazer 90 sites em 90 dias desenvolvido por [Dorly Neto](https://github.com/dorlyneto).
 
-# :pushpin: Table of Contents
+# :pushpin: Tabela de conteúdos
 
 * [Oque é](#computer-oque-é)
 * [Tecnologias](#computer-tecnologias)
 * [Features](#rocket-features)
 * [Como rodar](#construction_como-rodar)
+* [Autores](#wave_autores)
 
 <br>
 
-## :computer: Tecnologias
+## :computer: Oque é
 
 Este foi um projeto desenvolvido em equipe que faz parte do programa Space Squad, o programa de formação de mentores desenvolvido pela [Rocketseat](https://rocketseat.com.br/).
 
@@ -82,7 +83,25 @@ $ git clone https://github.com/nlnadialigia/90sites90days.git
 
 <br>
 
----
+
+## :wave: Autores
+
+**Autores**
+
+Nome | GitHub | Likedin | E-mail
+---- | ------ | ------- | ------
+---- | ------ | ------- | ------
+---- | ------ | ------- | ------
+---- | ------ | ------- | ------
+
+Caio Campos | [Caio Campos](https://github.com/CampossCaio) | [Linkedin](https://www.linkedin.com/in/caio-campos-905955175/) | email
+
+Hedenica Morais | [Hedenica Morais](https://github.com/hedenica) | [Linkedin](https://www.linkedin.com/in/hedenica/) | hedenica@hotmail.com
+
+Hudson Duarte | [Hudson Duarte](https://github.com/huduarte) | [Linkedin](https://www.linkedin.com/in/huduarte/) | hudsoneeto@outlook.com
+
+Nadia Ligia | [Nadia Ligia](https://github.com/nlnadialigia) | [Linkedin](https://www.linkedin.com/in/nlnadialigia/) | email
+
 
 
 
